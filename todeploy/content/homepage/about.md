@@ -1,7 +1,7 @@
 ---
 title: ''
 weight: 2
-background: 'images/sphere3.gif'
+background: 'images/network.gif'
 button: 'Contact us'
 buttonLink: '/contact'
 ---
