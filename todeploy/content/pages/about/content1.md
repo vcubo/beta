@@ -9,4 +9,4 @@ buttonLink: 'contact'
 ---
 
 We are an open community of project controls and risk management specialists.<br><br>
-We process large amounts of projects data to train machine learning models and provide management teams with discernment and accurate quantitative risk analysis statistics.
+We process large amounts of projects data to train machine learning models and provide management teams with discernment and more certain quantitative risk analyses.
