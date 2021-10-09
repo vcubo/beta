@@ -18,12 +18,6 @@ Based on historical data, we quantify how those factors affect schedule performa
 The figures below show distribution of delays and its decomposition for a sample of anonymized projects.<br><br>
 **[Contact us](/contact)** to explore a fully interactive model (risks and variables filters, additional features and predictive statistics). We will process the information of your projects and provide you with descriptive analytics at no charge.<br><br>
 
-<iframe id="interactive_demo"
-    title="Interactive demo"
-    width="100%"
-    height="1000"
-    src="https://share.streamlit.io/vcubo/beta_05/main/VCUBO_G01v05.py">
-</iframe>
 
 {{< plotly json="/demo/total_h1.json" height="300px" width="600px" >}}
 

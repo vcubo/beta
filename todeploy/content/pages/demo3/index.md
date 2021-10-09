@@ -9,5 +9,5 @@ draft: false
     title="Interactive demo"
     width="100%"
     height="1000"
-    src="https://share.streamlit.io/vcubo/beta_05/main/VCUBO_G01v05.py">
+    src="https://share.streamlit.io/vcubo/beta_06/main/VCUBO_INv01.py">
 </iframe>
